@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kayla Stenstrom"
 title_separator          : "-"
 name                     : &name "Kayla"
-description              : &description "personal description"
+description              : &description "Linguistics MA Candidate @ NEIU"
 url                      : https://kestenstrom.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kestenstrom/kestenstrom.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kayla Stenstrom"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Linguistics MA Candidate @ NEIU"
   location         : "Chicago, IL"
   employer         :
   pubmed           : 
