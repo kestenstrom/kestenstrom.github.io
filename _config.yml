@@ -190,6 +190,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,6 +254,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+   # _contact
+  - scope:
+      path: ""
+      type: contact
     values:
       layout: single
       author_profile: true
