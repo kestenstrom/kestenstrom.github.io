@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can view my CV [here](/files/Stenstrom_CV_Jan22.pdf).
+My CV can be found [here](/files/Stenstrom_CV_Jan22.pdf).
 
 {% include base_path %}
 
