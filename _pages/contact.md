@@ -5,6 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 
+You can contact me at:
+
+kestenstrom [at] neiu [dot] edu
 
 
 <nbsp>
